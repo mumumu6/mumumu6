@@ -7,9 +7,9 @@
 
 # Language
 
-## AtCoder, Codeforces
+## AtCoder
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ## Machine Learning
 
@@ -17,4 +17,8 @@
 
 ## Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev)
+
+## Backend
+
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
