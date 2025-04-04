@@ -10,8 +10,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
@@ -53,16 +51,18 @@ Sunday                   444 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 35 mins             ████████████████░░░░░░░░░   65.47 % 
+YAML                     17 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mumumu6                  53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -82,7 +82,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mumumu6/mumumu6/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 12:34:22 UTC
+ Last Updated on 04/04/2025 18:28:58 UTC
 <!--END_SECTION:waka-->
 
 ---
