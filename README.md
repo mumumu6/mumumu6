@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -40,14 +40,14 @@
 
 ```text
 💬 Programming Languages: 
-C++                      14 hrs 52 mins      ████████████████░░░░░░░░░   62.63 % 
-Python                   3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+C++                      14 hrs 52 mins      ████████████████░░░░░░░░░   62.54 % 
+Python                   4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 PHP                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-R                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Go                       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-WSL                      23 hrs 44 mins      █████████████████████████   100.00 % 
+WSL                      23 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,7 +67,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mumumu6/mumumu6/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 12:36:42 UTC
+ Last Updated on 24/04/2025 18:31:03 UTC
 <!--END_SECTION:waka-->
 
 ---
