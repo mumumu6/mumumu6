@@ -1,6 +1,7 @@
 name: Waka Readme Stats
 
 on:
+  push: 
   schedule:
     - cron: "0 0 * * *"  # 毎日0時に更新
     - cron: "0 12 * * *"  # 毎日12時に更新
