@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,7 +63,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 18:32:07 UTC
+ Last Updated on 23/05/2025 01:17:24 UTC
 <!--END_SECTION:waka-->
 
 ---
