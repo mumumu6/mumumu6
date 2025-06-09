@@ -10,15 +10,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 112.7 kB Used in GitHub's Storage 
- > 
-> 🏆 1,022 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,7 +61,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 01:22:57 UTC
+ Last Updated on 09/06/2025 06:15:48 UTC
 <!--END_SECTION:waka-->
 
 ---
