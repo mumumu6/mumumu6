@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -18,38 +18,12 @@
 
 > 📦 117.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                575 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌆 Daytime                1585 commits        ████████████░░░░░░░░░░░░░   48.78 % 
-🌃 Evening                777 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-🌙 Night                  312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
-Vue.js                   3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Go                       1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-TeX                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-
-💻 Operating System: 
-WSL                      15 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,7 +37,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 12:37:56 UTC
+ Last Updated on 13/06/2025 18:32:38 UTC
 <!--END_SECTION:waka-->
 
 ---
