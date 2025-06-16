@@ -16,9 +16,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 119.4 kB Used in GitHub's Storage 
+> 📦 119.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,057 Contributions in the Year 2025
+> 🏆 1,061 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,10 +29,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                578 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌆 Daytime                1595 commits        ████████████░░░░░░░░░░░░░   48.85 % 
-🌃 Evening                780 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-🌙 Night                  312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+🌞 Morning                553 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                1554 commits        ████████████░░░░░░░░░░░░░   48.67 % 
+🌃 Evening                774 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌙 Night                  312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 
 
@@ -40,30 +40,30 @@
 
 ```text
 💬 Programming Languages: 
-C++                      11 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   39.50 % 
-TypeScript               5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Markdown                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Vue.js                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Go                       3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+C++                      11 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.45 % 
+Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Vue.js                   3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Python                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-WSL                      30 hrs 4 mins       █████████████████████████   100.00 % 
+WSL                      24 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Go                       6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Vue                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Go                       5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 16/06/2025 12:39:55 UTC
+ Last Updated on 16/06/2025 18:33:05 UTC
 <!--END_SECTION:waka-->
 
 ---
