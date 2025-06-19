@@ -10,29 +10,29 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 119.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,095 Contributions in the Year 2025
+> 🏆 1,101 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-🌆 Daytime                1560 commits        ████████████░░░░░░░░░░░░░   48.40 % 
-🌃 Evening                791 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-🌙 Night                  312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌞 Morning                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌆 Daytime                1560 commits        ████████████░░░░░░░░░░░░░   48.36 % 
+🌃 Evening                791 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+🌙 Night                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 
 
@@ -40,30 +40,30 @@
 
 ```text
 💬 Programming Languages: 
-C++                      11 hrs 49 mins      ███████████░░░░░░░░░░░░░░   44.02 % 
-Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Vue.js                   2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Python                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-YAML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+C++                      11 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.35 % 
+Markdown                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+TypeScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Vue.js                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Go                       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-WSL                      26 hrs 51 mins      █████████████████████████   100.00 % 
+WSL                      29 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Vue                      7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Go                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 19/06/2025 12:38:51 UTC
+ Last Updated on 19/06/2025 18:31:29 UTC
 <!--END_SECTION:waka-->
 
 ---
