@@ -10,9 +10,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
@@ -26,30 +26,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌆 Daytime                1560 commits        ████████████░░░░░░░░░░░░░   48.31 % 
-🌃 Evening                791 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-🌙 Night                  318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      11 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.35 % 
-Markdown                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TypeScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Vue.js                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Go                       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-
-💻 Operating System: 
-WSL                      29 hrs 18 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -63,7 +39,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 12:38:20 UTC
+ Last Updated on 20/06/2025 18:32:06 UTC
 <!--END_SECTION:waka-->
 
 ---
