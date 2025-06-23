@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -63,7 +63,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 01:24:04 UTC
+ Last Updated on 23/06/2025 06:16:18 UTC
 <!--END_SECTION:waka-->
 
 ---
