@@ -10,15 +10,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumumu6&theme=transparent)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,208 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,9 +27,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                619 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-🌆 Daytime                1661 commits        ████████████░░░░░░░░░░░░░   48.33 % 
-🌃 Evening                819 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+🌞 Morning                620 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌆 Daytime                1661 commits        ████████████░░░░░░░░░░░░░   48.31 % 
+🌃 Evening                819 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 🌙 Night                  338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
@@ -63,7 +61,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 18:33:01 UTC
+ Last Updated on 01/07/2025 01:28:07 UTC
 <!--END_SECTION:waka-->
 
 ---
