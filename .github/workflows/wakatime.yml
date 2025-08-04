@@ -1,11 +1,11 @@
 name: Waka Readme Stats
 
 on: 
-  schedule:
-    - cron: "0 0 * * *"  # 毎日0時に更新
-    - cron: "0 12 * * *"  # 毎日12時に更新
-    - cron: "0 18 * * *"  # 毎日18時に更新
-    - cron: "0 6 * * *"   # 毎日6時に更新
+  # schedule:
+  #   - cron: "0 0 * * *"  # 毎日0時に更新
+  #   - cron: "0 12 * * *"  # 毎日12時に更新
+  #   - cron: "0 18 * * *"  # 毎日18時に更新
+  #   - cron: "0 6 * * *"   # 毎日6時に更新
   workflow_dispatch:     # 手動実行も可能
 
 jobs:
