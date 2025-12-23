@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumumu6&layout=compact&show_icons=true&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mumumu6&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-mumumu6.vercel.app/api/?username=mumumu6&count_private=true&include_all_commits=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mumumu6&margin-w=5&margin-h=5)](https://github.com/mumumu6/)
